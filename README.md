@@ -11,5 +11,5 @@ I am a Software & Game Developer currently pursuing dual degrees in *Digital Gam
 - *LinkedIn:* (https://www.linkedin.com/in/vberto-dev/)
 - *Email:* vbertotech@gmail.com
 
-...
+
 "The best way to predict the future is to invent it."
